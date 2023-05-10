@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 
-{
-    margin: 0;
-    padding: 0;
-    font-family: 'Space Mono', monospace;
 
-}
 
 .h3{
     align-items: center;
@@ -33,7 +28,7 @@ section::before{
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(#f00, #f0f);
+    background: linear-gradient(rgb(0, 255, 76), rgb(0, 204, 255));
     clip-Path: circle(50% at right 70%)   
 }
 
